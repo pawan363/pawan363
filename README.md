@@ -1,110 +1,123 @@
 <div align="center">
 
-# Hello there, I'm [YourName] 👋
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=06B0E2&height=250&section=header&text=Welcome%20to%20my%20Digital%20Workspace&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" />
+
+# 👋 Hello there, I'm [Pawan Pandey]
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=06B0E2&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Computer+Science+Student;Creative+3D+Designer;Hackathon+Enthusiast" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=06B0E2&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Computer+Science+Student;Creative+3D+Designer;Hackathon+Enthusiast" alt="Typing SVG" />
+</a>
 
-<!-- Visitor Counter Badge -->
-<img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+<br/>
 
-A passionate developer focused on building dynamic, high-performance web applications and crafting unique digital experiences.
+<a href="mailto:YourEmail@email.com"><img src="https://img.shields.io/badge/Email-06B0E2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="[LinkedIn URL]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="[Portfolio URL]"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=mac-os&logoColor=white" alt="Portfolio" /></a>
 
-📫 **Reach me at:** [YourEmail@email.com] | [LinkedIn URL] | [Portfolio URL]
+<br/>
+
+<!-- Visitor Counter -->
+<img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=06B0E2&style=flat-square" alt="Profile Views" />
+
+*Bridging the gap between high-performance code and stunning visual design.*
 
 </div>
 
 ---
 
-### 🚀 About Me
+### 🚀 The Developer Behind the Screen
 
-- 🎓 Currently studying **Computer Science**
-- 💻 Building full-stack projects with **React, Node.js, PHP, and Flask**
-- 🎨 Creating 3D models and animations in **Blender**
-- 🐧 Daily driving and developing on **Zorin OS (Linux)**
-- 🤝 Always open to collaborating on open-source projects and hackathons
+I am a Computer Science student who loves tearing apart complex problems and building seamless digital experiences. Whether I am writing logic for a backend server or rendering out a stop-motion animation, I thrive at the intersection of **technology and art**.
 
----
-
-### 🛠️ Tech Stack
-
-<div align="center">
-
-**Languages**
-<br/>
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-
-**Frameworks & Libraries**
-<br/>
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-
-**Databases & Environment**
-<br/>
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Zorin OS](https://img.shields.io/badge/Zorin_OS-06B0E2?style=for-the-badge&logo=Zorin&logoColor=white)
-
-**Creative Tools**
-<br/>
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-</div>
+*   🎓 **Currently:** Deep diving into Computer Science concepts and algorithms.
+*   💻 **Building:** Full-stack architectures using React, Node.js, PHP, and Flask.
+*   🎨 **Creating:** Immersive 3D models and paper-cut animations in Blender.
+*   🐧 **Environment:** Daily driving and developing strictly on Zorin OS (Linux).
+*   🤝 **Looking for:** Open-source collaborations, hackathon teams, and creative coding projects.
 
 ---
 
-### 📊 GitHub Activity & Stats
+### 🛠️ Arsenal & Tech Stack
 
 <div align="center">
   
-<!-- GitHub Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+*I use the right tools for the job. Here is what I am currently working with:*
 
-<!-- GitHub Top Languages Card -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+<br/>
 
-<!-- GitHub Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="98%" />
+**Core Languages**  
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,py,js,php&theme=dark" /></a>
+
+**Frontend & Backend**  
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nodejs,flask&theme=dark" /></a>
+
+**Database & DevOps**  
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=sqlite,git,linux&theme=dark" /></a>
+
+**Design & Creative**  
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=blender,figma&theme=dark" /></a>
 
 </div>
 
 ---
 
-### 📂 Featured Projects
+### 📂 The Lab (Featured Projects)
+
+*Click on a project to expand its details!*
 
 <details>
 <summary><b>✨ Dynamic Blogging Platform</b></summary>
+<blockquote>
+A complete full-stack blogging architecture tailored for high performance and SEO. <br><br>
+<b>Tech:</b> React, PHP, SQLite <br>
+<b>Highlights:</b> Secure user authentication, dynamic content creation, and an intuitive custom analytics dashboard.<br>
 <br>
-A complete full-stack blogging architecture utilizing React for the frontend and PHP/SQLite on the backend. Features secure user authentication, content creation, and analytics. 
-
-🔗 [View Repository](#)
+🔗 <a href="#">View Source Code</a>
+</blockquote>
 </details>
 
 <details>
 <summary><b>✨ Health & Learning Hackathon App</b></summary>
+<blockquote>
+A collaborative mobile-first tool designed under pressure for a rapid-prototyping hackathon. <br><br>
+<b>Goal:</b> Community empowerment through integrated social goals and intelligent learning use cases.<br>
+<b>Highlights:</b> Built from scratch in 48 hours, fully functional prototype, highly praised UI/UX.<br>
 <br>
-A collaborative tool built under pressure designed for community empowerment, integrating social goals with intelligent learning use cases.
-
-🔗 [View Repository](#)
+🔗 <a href="#">View Source Code</a>
+</blockquote>
 </details>
 
 <details>
 <summary><b>✨ 2D Motion Poster Animation</b></summary>
+<blockquote>
+A custom, handcrafted paper-cut style animation that pushes the boundaries of UI/UX presentation. <br><br>
+<b>Tech:</b> Blender, Figma <br>
+<b>Highlights:</b> Rendered in a nostalgic 12 FPS stop-motion format. Merges traditional art styles with modern digital workflows.<br>
 <br>
-A custom, handcrafted paper-cut style animation rendered in a 12 FPS stop-motion format showcasing creative UI/UX capabilities.
-
-🔗 [View Repository](#)
+🔗 <a href="#">Watch Animation</a>
+</blockquote>
 </details>
 
 ---
 
+### 📊 Mission Control
+
 <div align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+  
+<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=06B0E2" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=0D1117&ring=06B0E2&fire=06B0E2&currStreakLabel=06B0E2" alt="GitHub Streak" width="98%" />
+
+</div>
+
+<br/>
+
+<div align="center">
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i> <br>
+  — Cory House
 </div>
